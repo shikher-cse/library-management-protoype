@@ -1,0 +1,15 @@
+C:\Users\produc\source\repos\sunday_submit\bin\Debug\sunday_submit.exe.config
+C:\Users\produc\source\repos\sunday_submit\bin\Debug\sunday_submit.exe
+C:\Users\produc\source\repos\sunday_submit\bin\Debug\sunday_submit.pdb
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.csprojAssemblyReference.cache
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.Form1.resources
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.Properties.Resources.resources
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.csproj.GenerateResource.cache
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.csproj.CoreCompileInputs.cache
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.exe
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.pdb
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.Form3.resources
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.Form4.resources
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.Formdelete.resources
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.Form2.resources
+C:\Users\produc\source\repos\sunday_submit\obj\Debug\sunday_submit.Form6.resources
